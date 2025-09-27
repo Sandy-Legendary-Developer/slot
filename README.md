@@ -1,8 +1,8 @@
 # Ex03 Time Table
-## Date:
+## Date: 27-09-2025
 
 ## AIM
-To write a html webpage page to display your slot timetable.
+To create a successful multi github accounts usage in vscode using SSH keys
 
 ## ALGORITHM
 ### STEP 1
